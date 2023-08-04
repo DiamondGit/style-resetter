@@ -1,6 +1,6 @@
 {
     "name": "style-resetter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": false,
     "description": "A CSS reset module to provide a clean slate for consistent and predictable styling in web projects.",
     "main": "style-resetter.css",
