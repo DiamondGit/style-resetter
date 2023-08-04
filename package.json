@@ -1,0 +1,16 @@
+{
+    "name": "style-resetter",
+    "version": "1.0.0",
+    "private": false,
+    "description": "A CSS reset module to provide a clean slate for consistent and predictable styling in web projects.",
+    "main": "style-resetter.css",
+    "author": "Zhumatayev Arman",
+    "license": "ISC",
+    "keywords": [
+        "css",
+        "reset",
+        "styles",
+        "styling",
+        "web development"
+    ]
+}
